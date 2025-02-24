@@ -6,13 +6,13 @@
 - ✏ Graduating in Data Sciences and Artificial Intelligence at the State University of Londrina (UEL)
 
 ### Technologies ​​That I Use and Study
-<img src="images/python.png" width="4%"></img> 
-<img src="images/java.png" width="4%"></img>
-<img src="images/html.png" width="4%"></img>
-<img src="images/css.png" width="4%"></img>
-<img src="images/javascript.png" width="4%"></img>
-<img src="images/mongodb.png" width="4%"></img>
-<img src="images/arduino.png" width="4%"></img>
+<img src="images/python.png" width="6%"></img> 
+<img src="images/java.png" width="6%"></img>
+<img src="images/html.png" width="6%"></img>
+<img src="images/css.png" width="6%"></img>
+<img src="images/javascript.png" width="6%"></img>
+<img src="images/mongodb.png" width="6%"></img>
+<img src="images/arduino.png" width="6%"></img>
 
 ### <p align="center">Contact</p>
 <p align="center"> 
