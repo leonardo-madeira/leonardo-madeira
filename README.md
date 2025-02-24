@@ -17,7 +17,7 @@
 ### <p align="center">Contact</p>
 <p align="center"> 
 <a href = "mailto:lnrdmadeira@gmail.com"><img src="images/gmail.png" width="4%"></a>
-<a href = "www.linkedin.com/leonardo-madeira-alves-pereira"><img src="images/linkedin.png" width="4%"></a> 
+<a href = "https://www.linkedin.com/in/leonardo-madeira-alves-pereira/"><img src="images/linkedin.png" width="4%"></a> 
 </p>
 
 <img src="images/finaldesign.png"></img>
