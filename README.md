@@ -14,6 +14,14 @@
 <img src="images/mongodb.png" width="6%"></img>
 <img src="images/arduino.png" width="6%"></img>
 
+<br>
+
+<div align="center">
+    <a href="https://github.com/leonardo-madeira">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-madeira&layout=compact&langs_count=16&theme=dracula"/>
+    </a>
+</div>
+
 ### <p align="center">Contact</p>
 <p align="center"> 
 <a href = "mailto:lnrdmadeira@gmail.com"><img src="images/gmail.png" width="4%"></a>
