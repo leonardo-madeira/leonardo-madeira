@@ -1,5 +1,3 @@
-<img src="images/tophead.png"></img>
-
 ### Educational Background
 
 - 🎓 Graduated in Technical Informatics from the Federal Institute of Paraná – Londrina (IFPR)
@@ -27,5 +25,3 @@
 <a href = "mailto:lnrdmadeira@gmail.com"><img src="images/gmail.png" width="4%"></a>
 <a href = "https://www.linkedin.com/in/leonardo-madeira-alves-pereira/"><img src="images/linkedin.png" width="4%"></a> 
 </p>
-
-<img src="images/finaldesign.png"></img>
